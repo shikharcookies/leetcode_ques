@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/shikharcookies/leetcode_ques/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/shikharcookies/leetcode_ques/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
