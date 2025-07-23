@@ -1,30 +1,42 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length;
-        int[] state = new int[n]; // 0: unvisited, 1: visiting, 2: safe
-        List<Integer> safe = new ArrayList<>();
+        int V = graph.length;
 
-        for (int i = 0; i < n; i++) {
-            if (dfs(graph, i, state)) {
-                safe.add(i);
+        // Step 1: Build the reversed graph
+        List<List<Integer>> adjRev = new ArrayList<>();
+        for (int i = 0; i < V; i++) {
+            adjRev.add(new ArrayList<>());
+        }
+
+        int[] indegree = new int[V];
+        for (int i = 0; i < V; i++) {
+            for (int it : graph[i]) {
+                adjRev.get(it).add(i); // reverse the edge
+                indegree[i]++;         // count original outgoing edges
             }
         }
-        
-        return safe;
-    }
 
-    private boolean dfs(int[][] graph, int node, int[] state) {
-        if (state[node] > 0) return state[node] == 2; // Already safe
-        
-        state[node] = 1; // Mark as visiting
-        
-        for (int next : graph[node]) {
-            if (state[next] == 1 || !dfs(graph, next, state)) {
-                return false; // Cycle detected
+        // Step 2: Topo sort (Kahn's Algorithm)
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < V; i++) {
+            if (indegree[i] == 0) q.add(i);
+        }
+
+        List<Integer> safeNodes = new ArrayList<>();
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            safeNodes.add(node);
+
+            for (int prev : adjRev.get(node)) {
+                indegree[prev]--;
+                if (indegree[prev] == 0) {
+                    q.add(prev);
+                }
             }
         }
-        
-        state[node] = 2; // Mark as safe
-        return true;
+
+        // Step 3: Sort result
+        Collections.sort(safeNodes);
+        return safeNodes;
     }
 }
