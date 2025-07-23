@@ -1,17 +1,15 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        int colored[] = new int[graph.length];
+        int[] colored = new int[graph.length];
         Arrays.fill(colored,-1);
 
-
-        for(int i=0;i<colored.length;i++)
+        for(int i=0;i<graph.length;i++)
         {
             if(colored[i]==-1)
             {
-                if(!bfs(graph,colored,i)) // covers disconnected components
+                if(dfs(graph,colored,0,i)==false)
                 {
                     return false;
-
                 }
             }
         }
@@ -19,32 +17,21 @@ class Solution {
     }
 
 
-    public boolean bfs(int[][]graph, int vis[], int start)
+    public boolean dfs(int[][]graph, int[] colored, int col, int node)
     {
-        Queue<Integer> q = new LinkedList<>();
-        q.add(start);
-        vis[start]=0;
-
-        while(!q.isEmpty())
+        colored[node] = col;
+        for(int neighbor: graph[node])
         {
-            int node = q.remove();
-            for(int neighbor : graph[node])
+            if(colored[neighbor]==-1)
             {
-                if(vis[neighbor]==-1)
-                {
-                    if(vis[node]==1)
-                    {
-                        vis[neighbor]=0;
-                    }
-                    else {
-                        vis[neighbor]=1;
-                    }
-                    q.add(neighbor);
-                }
-                else if(vis[neighbor]!= -1 && vis[neighbor] == vis[node])
+                if(dfs(graph,colored,1-col,neighbor)==false)
                 {
                     return false;
                 }
+            }
+            else if(colored[neighbor]==col)
+            {
+                return false;
             }
         }
         return true;
