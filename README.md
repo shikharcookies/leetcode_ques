@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shikharcookies/leetcode_ques/tree/master/0133-clone-graph) |
 ## Depth-First Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shikharcookies/leetcode_ques/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shikharcookies/leetcode_ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/shikharcookies/leetcode_ques/tree/master/0820-find-eventual-safe-states) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
