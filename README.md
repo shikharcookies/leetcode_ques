@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shikharcookies/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/shikharcookies/leetcode_ques/tree/master/1300-critical-connections-in-a-network) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
