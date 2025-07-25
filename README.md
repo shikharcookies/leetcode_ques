@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shikharcookies/leetcode_ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shikharcookies/leetcode_ques/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shikharcookies/leetcode_ques/tree/master/0820-find-eventual-safe-states) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shikharcookies/leetcode_ques/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shikharcookies/leetcode_ques/tree/master/0820-find-eventual-safe-states) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shikharcookies/leetcode_ques/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shikharcookies/leetcode_ques/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
