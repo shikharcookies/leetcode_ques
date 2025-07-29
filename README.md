@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/shikharcookies/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/shikharcookies/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
