@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/shikharcookies/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shikharcookies/leetcode_ques/tree/master/0198-house-robber) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/shikharcookies/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shikharcookies/leetcode_ques/tree/master/0198-house-robber) |
