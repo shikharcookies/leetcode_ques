@@ -1,36 +1,29 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
+        List<Integer> temp = new ArrayList<>();
+        temp.add(nums[0]);
 
-        int[][] dp = new int[n][n+1];
-        
-        for(int row[] : dp)
-        {
-            Arrays.fill(row,-1);
+        int len = 1;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] > temp.get(temp.size() - 1)) {
+                // nums[i] > the last element of temp Array
+
+                temp.add(nums[i]);
+                len++;
+            } else {
+                // Replacement step
+                int ind = Collections.binarySearch(temp, nums[i]);
+
+                if (ind < 0) {
+                    ind = -ind - 1;
+                }
+
+                temp.set(ind, nums[i]);
+            }
         }
 
-        return getAns(nums,n,0,-1,dp);
-    }
-    public static int getAns(int arr[], int n, int ind, int prev_index, int[][] dp) {
-        // Base condition
-        if (ind == n) {
-            return 0;
-        }
-
-        if (dp[ind][prev_index + 1] != -1) {
-            return dp[ind][prev_index + 1];
-        }
-
-        int notTake = 0 + getAns(arr, n, ind + 1, prev_index, dp);
-
-        int take = 0;
-
-        if (prev_index == -1 || arr[ind] > arr[prev_index]) {
-            take = 1 + getAns(arr, n, ind + 1, ind, dp);
-        }
-
-        dp[ind][prev_index + 1] = Math.max(notTake, take);
-
-        return dp[ind][prev_index + 1];
+        return len;
     }
 }
