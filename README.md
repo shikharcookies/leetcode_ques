@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shikharcookies/leetcode_ques/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shikharcookies/leetcode_ques/tree/master/0417-pacific-atlantic-water-flow) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shikharcookies/leetcode_ques/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shikharcookies/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shikharcookies/leetcode_ques/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shikharcookies/leetcode_ques/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
