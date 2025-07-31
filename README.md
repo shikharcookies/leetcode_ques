@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
+| [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shikharcookies/leetcode_ques/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
 ## Topological Sort
 |  |
 | ------- |
