@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
