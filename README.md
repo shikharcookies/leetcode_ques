@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shikharcookies/leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shikharcookies/leetcode_ques/tree/master/0198-house-robber) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
