@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shikharcookies/leetcode_ques/tree/master/0403-frog-jump) |
+| [0516-longest-palindromic-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shikharcookies/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [1250-longest-common-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shikharcookies/leetcode_ques/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
