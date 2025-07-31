@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
+| [1250-longest-common-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shikharcookies/leetcode_ques/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1559-cherry-pickup-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shikharcookies/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
+| [1250-longest-common-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shikharcookies/leetcode_ques/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Backtracking
 |  |
