@@ -1,28 +1,31 @@
 class Solution {
-    public int maxProfit(int[] prices,int fee) {
+    public int maxProfit(int[] prices, int fee) {
         int n = prices.length;
-        int [][] dp = new int[n][2];
-
-        for(int row[]:dp)
-        {
-            Arrays.fill(row,-1);
+        if (n == 0) {
+            return 0;
         }
-        return fn(0,1,n,prices,fee,dp);
-    }
 
-    public int fn(int ind,int buy, int n, int[]prices,int fee,int[][]dp)
-    {
-        if (ind==n) return 0;
-        if (dp[ind][buy]!=-1) return dp[ind][buy];
+        long[] ahead = new long[2];
+        long[] cur = new long[2];
 
-        int profit=0;
-        if(buy==1)
-        {
-            profit = Math.max(-prices[ind]+fn(ind+1,0,n,prices,fee,dp), 0+fn(ind+1,1,n,prices,fee,dp));
+        // Initialize base conditions
+        ahead[0] = ahead[1] = 0;
+        long profit;
+
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                if (buy == 0) { // We can buy the stock
+                    profit = Math.max(0 + ahead[0], -prices[ind] + ahead[1]);
+                } else { // We can sell the stock
+                    profit = Math.max(0 + ahead[1], prices[ind] - fee + ahead[0]);
+                }
+                cur[buy] = profit;
+            }
+
+            // Copy current state to ahead for next iteration
+            ahead = cur.clone();
         }
-        else {
-            profit = Math.max(prices[ind]-fee+fn(ind+1,1,n,prices,fee,dp), 0+fn(ind+1,0,n,prices,fee,dp));
-        }
-        return dp[ind][buy]= profit;
+
+        return (int) cur[0];
     }
 }
