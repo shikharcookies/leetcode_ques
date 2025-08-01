@@ -1,28 +1,30 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int [][] dp = new int[n][2];
+        int[] ahead = new int[2];
+        int[] cur = new int[2];
 
-        for(int row[]:dp)
-        {
-            Arrays.fill(row,-1);
-        }
-        return fn(0,1,n,prices,dp);
-    }
+        // Base case: at the end, profit is 0 for both buy/sell
+        ahead[0] = ahead[1] = 0;
 
-    public int fn(int ind,int buy, int n, int[]prices,int[][]dp)
-    {
-        if (ind==n) return 0;
-        if (dp[ind][buy]!=-1) return dp[ind][buy];
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                int profit;
+                if (buy == 0) {
+                    // Option to buy or skip
+                    profit = Math.max(0 + ahead[0], -prices[ind] + ahead[1]);
+                } else {
+                    // Option to sell or skip
+                    profit = Math.max(0 + ahead[1], prices[ind] + ahead[0]);
+                }
+                cur[buy] = profit;
+            }
 
-        int profit=0;
-        if(buy==1)
-        {
-            profit = Math.max(-prices[ind]+fn(ind+1,0,n,prices,dp), 0+fn(ind+1,1,n,prices,dp));
+            // Move current to ahead for next iteration
+            ahead[0] = cur[0];
+            ahead[1] = cur[1];
         }
-        else {
-            profit = Math.max(prices[ind]+fn(ind+1,1,n,prices,dp), 0+fn(ind+1,0,n,prices,dp));
-        }
-        return dp[ind][buy]= profit;
+
+        return cur[0];  // Maximum profit starting from index 0, in "buy allowed" state
     }
 }
