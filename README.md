@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shikharcookies/leetcode_ques/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shikharcookies/leetcode_ques/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shikharcookies/leetcode_ques/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shikharcookies/leetcode_ques/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2154-minimum-moves-to-convert-string) |
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
