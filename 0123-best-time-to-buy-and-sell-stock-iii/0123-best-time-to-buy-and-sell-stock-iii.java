@@ -1,37 +1,41 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int[][][] dp = new int[n][2][3];
 
-        // Initialize dp array with -1
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(dp[i][j], -1);
+        // Create a 2D array ahead and cur to store profit values
+        int[][] ahead = new int[2][3];
+        int[][] cur = new int[2][3];
+
+        // Loop through the prices array, starting from the second last stock (ind=n-1)
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                for (int cap = 1; cap <= 2; cap++) {
+
+                    if (buy == 0) { // We can buy the stock
+                        cur[buy][cap] = Math.max(
+                            0 + ahead[0][cap],
+                            -prices[ind] + ahead[1][cap]
+                        );
+                    }
+
+                    if (buy == 1) { // We can sell the stock
+                        cur[buy][cap] = Math.max(
+                            0 + ahead[1][cap],
+                            prices[ind] + ahead[0][cap - 1]
+                        );
+                    }
+                }
+            }
+
+            // Update ahead with the values in cur
+            for (int i = 0; i < 2; i++) {
+                for (int j = 1; j < 3; j++) {
+                    ahead[i][j] = cur[i][j];
+                }
             }
         }
 
-        return fn(0, 1, 2, n, prices, dp);
-    }
-
-    public static int fn(int ind, int buy, int cap, int n, int[] prices, int[][][] dp) {
-        if (ind == n || cap == 0) return 0;
-
-        if (dp[ind][buy][cap] != -1) return dp[ind][buy][cap];
-
-        int profit = 0;
-
-        if (buy == 1) {
-            // We can buy
-            profit = Math.max(
-                -prices[ind] + fn(ind + 1, 0, cap, n, prices, dp),
-                0 + fn(ind + 1, 1, cap, n, prices, dp));
-        } else {
-            // We can sell
-            profit = Math.max(
-                prices[ind] + fn(ind + 1, 1, cap - 1, n, prices, dp),
-                0 + fn(ind + 1, 0, cap, n, prices, dp));
-        }
-
-        return dp[ind][buy][cap] = profit; 
+        // The maximum profit with 2 transactions is stored in ahead[0][2]
+        return ahead[0][2];
     }
 }
