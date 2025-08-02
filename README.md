@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shikharcookies/leetcode_ques/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
+| [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shikharcookies/leetcode_ques/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
