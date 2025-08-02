@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shikharcookies/leetcode_ques/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
+| [0890-lemonade-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shikharcookies/leetcode_ques/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0890-lemonade-change) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shikharcookies/leetcode_ques/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2154-minimum-moves-to-convert-string) |
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
