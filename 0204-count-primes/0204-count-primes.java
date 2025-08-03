@@ -1,37 +1,26 @@
-class Solution {
-    public int countPrimes(int n) {
-		int count =0;
-        boolean[] check = new boolean[n] ;
-        return sieve(n,check) ;
-    }
-	
+public class Solution {
 
-    static int sieve(int n, boolean[] check) {
-		for(int i=2; i*i<n; i++) {
-		
-		// if boolean value is false means number is prime
-		
-			if(!check[i]) {
-			
-			// we used j=i*i to reduce time (we can do j = 2*i but this will do repetative task)
-			
-				for(int j=i*i; j<n; j+=i) {
-				
-				// if boolean value is true means number is not prime 
-				
-					check[j] = true ;
-				}
-			}
-		}
-		
-		//to count prime number: if value is false then number at that index is prime
-		
-		int count = 0 ;
-		for(int i =2;i<n;i++) {
-			if(!check[i]) {
-				count++ ;
-			}
-		}
-		return count ;
-	}
+    // Prime check method you wrote
+    public static boolean isPrime(int n) {
+        if (n <= 1) return false;
+        if (n == 2) return true;
+        if (n % 2 == 0) return false;
+
+        for (int i = 3; i * i <= n; i += 2) {
+            if (n % i == 0) return false;
+        }
+
+        return true;
+    }
+
+    // Leetcode 204: Count Primes less than n
+    public int countPrimes(int n) {
+        int count = 0;
+        for (int i = 2; i < n; i++) {
+            if (isPrime(i)) {
+                count++;
+            }
+        }
+        return count;
+    }
 }
