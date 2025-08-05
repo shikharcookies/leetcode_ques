@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shikharcookies/leetcode_ques/tree/master/0204-count-primes) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/shikharcookies/leetcode_ques/tree/master/0735-asteroid-collision) |
 ## Counting
 |  |
