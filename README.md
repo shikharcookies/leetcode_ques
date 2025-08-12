@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/shikharcookies/leetcode_ques/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Topological Sort
 |  |
 | ------- |
