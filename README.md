@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shikharcookies/leetcode_ques/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
+| [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shikharcookies/leetcode_ques/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
+| [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shikharcookies/leetcode_ques/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shikharcookies/leetcode_ques/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
 ## Memoization
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shikharcookies/leetcode_ques/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shikharcookies/leetcode_ques/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shikharcookies/leetcode_ques/tree/master/0383-ransom-note) |
+| [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 ## Linked List
 |  |
 | ------- |
