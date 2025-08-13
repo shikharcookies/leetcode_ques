@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shikharcookies/leetcode_ques/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
 ## Memoization
@@ -359,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
