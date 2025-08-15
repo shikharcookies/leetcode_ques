@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shikharcookies/leetcode_ques/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/shikharcookies/leetcode_ques/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shikharcookies/leetcode_ques/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/shikharcookies/leetcode_ques/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shikharcookies/leetcode_ques/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/shikharcookies/leetcode_ques/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/shikharcookies/leetcode_ques/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/shikharcookies/leetcode_ques/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shikharcookies/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/shikharcookies/leetcode_ques/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shikharcookies/leetcode_ques/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/shikharcookies/leetcode_ques/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shikharcookies/leetcode_ques/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/shikharcookies/leetcode_ques/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shikharcookies/leetcode_ques/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/shikharcookies/leetcode_ques/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shikharcookies/leetcode_ques/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/shikharcookies/leetcode_ques/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1300-critical-connections-in-a-network](https://github.com/shikharcookies/leetcode_ques/tree/master/1300-critical-connections-in-a-network) |
