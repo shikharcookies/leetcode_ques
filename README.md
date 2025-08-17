@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shikharcookies/leetcode_ques/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shikharcookies/leetcode_ques/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1250-longest-common-subsequence) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikharcookies/leetcode_ques/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
 | [1448-maximum-69-number](https://github.com/shikharcookies/leetcode_ques/tree/master/1448-maximum-69-number) |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikharcookies/leetcode_ques/tree/master/0342-power-of-four) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
