@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shikharcookies/leetcode_ques/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shikharcookies/leetcode_ques/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/shikharcookies/leetcode_ques/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2154-minimum-moves-to-convert-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/shikharcookies/leetcode_ques/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
 ## Backtracking
 |  |
