@@ -1,23 +1,61 @@
+import java.util.*;
+
 class Solution {
-  public int minZeroArray(int[] nums, int[][] queries) {
-    if (Arrays.stream(nums).allMatch(num -> num == 0)) return 0;
+    private int n;
 
-    final int n = nums.length;
-    Set<Integer>[] dp = new Set[n];
-    for (int i = 0; i < n; ++i) dp[i] = new HashSet<>(List.of(0));
 
-    for (int k = 0; k < queries.length; ++k) {
-      int l = queries[k][0], r = queries[k][1], val = queries[k][2];
-      for (int i = l; i <= r; ++i) {
-        Set<Integer> curr = dp[i];
-        List<Integer> newSums = new ArrayList<>();
-        for (int sum : curr) newSums.add(sum + val);
-        curr.addAll(newSums);
-      }
-      boolean ok = IntStream.range(0, n)
-                        .allMatch(i -> dp[i].contains(nums[i]));
-      if (ok) return k + 1;
+    private boolean canTransform(int[] nums, int[][] queries, int k) {
+     
+        List<Set<Integer>> dp = new ArrayList<>(n);
+        for (int i = 0; i < n; i++) {
+            dp.add(new HashSet<>(Collections.singletonList(0)));
+        }
+
+        for (int qi = 0; qi <= k; qi++) {
+            int l = queries[qi][0], r = queries[qi][1], val = queries[qi][2];
+            for (int i = l; i <= r; i++) {
+                Set<Integer> curr = dp.get(i);
+                Set<Integer> newSums = new HashSet<>();
+                for (int sum : curr) {
+                    int next = sum + val;
+                    if (next <= nums[i]) {
+                        newSums.add(next);
+                    }
+                }
+                curr.addAll(newSums);
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (!dp.get(i).contains(nums[i])) {
+                return false;
+            }
+        }
+        return true;
     }
-    return -1;
-  }
+
+    public int minZeroArray(int[] nums, int[][] queries) {
+        n = nums.length;
+        int Q = queries.length;
+
+
+        boolean allZero = true;
+        for (int x : nums) {
+            if (x != 0) { allZero = false; break; }
+        }
+        if (allZero) return 0;
+
+
+        int l = 0, r = Q - 1, ans = -1;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (canTransform(nums, queries, mid)) {
+                ans = mid + 1; 
+                r = mid - 1;
+            } else {
+                l = mid + 1;
+            }
+        }
+        return ans;
+    }
 }
