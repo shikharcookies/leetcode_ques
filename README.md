@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
 | [3643-zero-array-transformation-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/3643-zero-array-transformation-ii) |
+| [3795-zero-array-transformation-iv](https://github.com/shikharcookies/leetcode_ques/tree/master/3795-zero-array-transformation-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/shikharcookies/leetcode_ques/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3795-zero-array-transformation-iv](https://github.com/shikharcookies/leetcode_ques/tree/master/3795-zero-array-transformation-iv) |
 ## Topological Sort
 |  |
 | ------- |
