@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/shikharcookies/leetcode_ques/tree/master/1917-maximum-average-pass-ratio) |
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shikharcookies/leetcode_ques/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shikharcookies/leetcode_ques/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/shikharcookies/leetcode_ques/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/shikharcookies/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/shikharcookies/leetcode_ques/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/shikharcookies/leetcode_ques/tree/master/1917-maximum-average-pass-ratio) |
 | [2154-minimum-moves-to-convert-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2154-minimum-moves-to-convert-string) |
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
 ## Biconnected Component
