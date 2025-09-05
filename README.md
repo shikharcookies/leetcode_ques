@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shikharcookies/leetcode_ques/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/shikharcookies/leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shikharcookies/leetcode_ques/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/shikharcookies/leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/shikharcookies/leetcode_ques/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shikharcookies/leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
