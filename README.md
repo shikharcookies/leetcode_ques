@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shikharcookies/leetcode_ques/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shikharcookies/leetcode_ques/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0039-combination-sum) |
+| [0057-insert-interval](https://github.com/shikharcookies/leetcode_ques/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shikharcookies/leetcode_ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shikharcookies/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
