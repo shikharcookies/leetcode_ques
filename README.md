@@ -422,10 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
