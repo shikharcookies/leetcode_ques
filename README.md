@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shikharcookies/leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/shikharcookies/leetcode_ques/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -426,11 +428,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikharcookies/leetcode_ques/tree/master/0342-power-of-four) |
