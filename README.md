@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shikharcookies/leetcode_ques/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shikharcookies/leetcode_ques/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/shikharcookies/leetcode_ques/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shikharcookies/leetcode_ques/tree/master/0120-triangle) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shikharcookies/leetcode_ques/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shikharcookies/leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shikharcookies/leetcode_ques/tree/master/0200-number-of-islands) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/shikharcookies/leetcode_ques/tree/master/0735-asteroid-collision) |
 ## Counting
