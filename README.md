@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shikharcookies/leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/shikharcookies/leetcode_ques/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/shikharcookies/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/shikharcookies/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/shikharcookies/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shikharcookies/leetcode_ques/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shikharcookies/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
 | [0383-ransom-note](https://github.com/shikharcookies/leetcode_ques/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/shikharcookies/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [1250-longest-common-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1250-longest-common-subsequence) |
