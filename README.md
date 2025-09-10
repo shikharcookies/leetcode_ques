@@ -463,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/shikharcookies/leetcode_ques/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
