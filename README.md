@@ -467,5 +467,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/shikharcookies/leetcode_ques/tree/master/0626-exchange-seats) |
+| [1480-movie-rating](https://github.com/shikharcookies/leetcode_ques/tree/master/1480-movie-rating) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/shikharcookies/leetcode_ques/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
