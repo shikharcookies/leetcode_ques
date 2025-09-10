@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/shikharcookies/leetcode_ques/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/shikharcookies/leetcode_ques/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/shikharcookies/leetcode_ques/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shikharcookies/leetcode_ques/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/shikharcookies/leetcode_ques/tree/master/0626-exchange-seats) |
