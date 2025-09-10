@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shikharcookies/leetcode_ques/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/shikharcookies/leetcode_ques/tree/master/0626-exchange-seats) |
 | [1452-restaurant-growth](https://github.com/shikharcookies/leetcode_ques/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/shikharcookies/leetcode_ques/tree/master/1480-movie-rating) |
