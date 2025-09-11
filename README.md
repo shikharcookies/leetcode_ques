@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/shikharcookies/leetcode_ques/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
+| [2887-sort-vowels-in-a-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2887-sort-vowels-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shikharcookies/leetcode_ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shikharcookies/leetcode_ques/tree/master/1777-determine-if-two-strings-are-close) |
+| [2887-sort-vowels-in-a-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
