@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/shikharcookies/leetcode_ques/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/shikharcookies/leetcode_ques/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shikharcookies/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shikharcookies/leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shikharcookies/leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
