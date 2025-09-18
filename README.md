@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shikharcookies/leetcode_ques/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/shikharcookies/leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shikharcookies/leetcode_ques/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shikharcookies/leetcode_ques/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/shikharcookies/leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0598-range-addition-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0598-range-addition-ii) |
 | [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
