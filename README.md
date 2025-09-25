@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shikharcookies/leetcode_ques/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shikharcookies/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shikharcookies/leetcode_ques/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shikharcookies/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shikharcookies/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shikharcookies/leetcode_ques/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shikharcookies/leetcode_ques/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shikharcookies/leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
