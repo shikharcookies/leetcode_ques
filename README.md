@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shikharcookies/leetcode_ques/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shikharcookies/leetcode_ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shikharcookies/leetcode_ques/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/shikharcookies/leetcode_ques/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shikharcookies/leetcode_ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shikharcookies/leetcode_ques/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
+| [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Depth-First Search
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2154-minimum-moves-to-convert-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/shikharcookies/leetcode_ques/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
 | [2887-sort-vowels-in-a-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2887-sort-vowels-in-a-string) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/shikharcookies/leetcode_ques/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shikharcookies/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 ## Trie
 |  |
 | ------- |
@@ -502,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/shikharcookies/leetcode_ques/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/shikharcookies/leetcode_ques/tree/master/1811-fix-names-in-a-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/shikharcookies/leetcode_ques/tree/master/2127-employees-whose-manager-left-the-company) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
