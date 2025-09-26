@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/1559-cherry-pickup-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shikharcookies/leetcode_ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shikharcookies/leetcode_ques/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shikharcookies/leetcode_ques/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/shikharcookies/leetcode_ques/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shikharcookies/leetcode_ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shikharcookies/leetcode_ques/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shikharcookies/leetcode_ques/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shikharcookies/leetcode_ques/tree/master/1777-determine-if-two-strings-are-close) |
 | [2887-sort-vowels-in-a-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
