@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
