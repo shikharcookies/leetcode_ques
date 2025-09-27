@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shikharcookies/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikharcookies/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/shikharcookies/leetcode_ques/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0611-valid-triangle-number) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/shikharcookies/leetcode_ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shikharcookies/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/shikharcookies/leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shikharcookies/leetcode_ques/tree/master/0326-power-of-three) |
