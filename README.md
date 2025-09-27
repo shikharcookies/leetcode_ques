@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/shikharcookies/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
+| [0830-largest-triangle-area](https://github.com/shikharcookies/leetcode_ques/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/shikharcookies/leetcode_ques/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shikharcookies/leetcode_ques/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/shikharcookies/leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0598-range-addition-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0598-range-addition-ii) |
+| [0830-largest-triangle-area](https://github.com/shikharcookies/leetcode_ques/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/shikharcookies/leetcode_ques/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
