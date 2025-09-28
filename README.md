@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/shikharcookies/leetcode_ques/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/shikharcookies/leetcode_ques/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shikharcookies/leetcode_ques/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/shikharcookies/leetcode_ques/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/shikharcookies/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shikharcookies/leetcode_ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
