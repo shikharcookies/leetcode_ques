@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shikharcookies/leetcode_ques/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3678-design-task-manager](https://github.com/shikharcookies/leetcode_ques/tree/master/3678-design-task-manager) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/shikharcookies/leetcode_ques/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/shikharcookies/leetcode_ques/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/shikharcookies/leetcode_ques/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shikharcookies/leetcode_ques/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shikharcookies/leetcode_ques/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/shikharcookies/leetcode_ques/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
@@ -546,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/shikharcookies/leetcode_ques/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
