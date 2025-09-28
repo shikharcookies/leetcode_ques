@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/shikharcookies/leetcode_ques/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shikharcookies/leetcode_ques/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/shikharcookies/leetcode_ques/tree/master/0867-new-21-game) |
+| [0868-push-dominoes](https://github.com/shikharcookies/leetcode_ques/tree/master/0868-push-dominoes) |
 | [0923-super-egg-drop](https://github.com/shikharcookies/leetcode_ques/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shikharcookies/leetcode_ques/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1170-shortest-common-supersequence) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shikharcookies/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/shikharcookies/leetcode_ques/tree/master/0720-longest-word-in-dictionary) |
+| [0868-push-dominoes](https://github.com/shikharcookies/leetcode_ques/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shikharcookies/leetcode_ques/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shikharcookies/leetcode_ques/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/shikharcookies/leetcode_ques/tree/master/0611-valid-triangle-number) |
+| [0868-push-dominoes](https://github.com/shikharcookies/leetcode_ques/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/shikharcookies/leetcode_ques/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shikharcookies/leetcode_ques/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
