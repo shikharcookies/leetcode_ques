@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shikharcookies/leetcode_ques/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/3643-zero-array-transformation-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 | [2547-odd-string-difference](https://github.com/shikharcookies/leetcode_ques/tree/master/2547-odd-string-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shikharcookies/leetcode_ques/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shikharcookies/leetcode_ques/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/shikharcookies/leetcode_ques/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shikharcookies/leetcode_ques/tree/master/1777-determine-if-two-strings-are-close) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shikharcookies/leetcode_ques/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
