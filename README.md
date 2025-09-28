@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shikharcookies/leetcode_ques/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shikharcookies/leetcode_ques/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shikharcookies/leetcode_ques/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/shikharcookies/leetcode_ques/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shikharcookies/leetcode_ques/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shikharcookies/leetcode_ques/tree/master/0139-word-break) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0039-combination-sum) |
+| [0093-restore-ip-addresses](https://github.com/shikharcookies/leetcode_ques/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
 | [2107-find-unique-binary-string](https://github.com/shikharcookies/leetcode_ques/tree/master/2107-find-unique-binary-string) |
