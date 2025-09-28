@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shikharcookies/leetcode_ques/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shikharcookies/leetcode_ques/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/shikharcookies/leetcode_ques/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/shikharcookies/leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/shikharcookies/leetcode_ques/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0064-minimum-path-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shikharcookies/leetcode_ques/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/shikharcookies/leetcode_ques/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/shikharcookies/leetcode_ques/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/0212-word-search-ii) |
