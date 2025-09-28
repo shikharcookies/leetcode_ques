@@ -1,67 +1,64 @@
-import java.util.*;
-
-class TaskManager {
-
-    private static class Task {
-        int priority;
-        int taskID;
-
-        Task(int priority, int taskID) {
-            this.priority = priority;
-            this.taskID = taskID;
-        }
-    }
-
-    private PriorityQueue<Task> maxHeap;
-    private Map<Integer,Integer> taskPriorityMap;
-    private Map<Integer,Integer> taskOwnerMap;
-
+class TaskManager {  
+    PriorityQueue<int[]> pq; //maxHeap => [usedId, taskId, priority]
+    HashMap<Integer, int[]> map; //hashMap => (key:taskId -> value:[usedId, taskId, priority])
     public TaskManager(List<List<Integer>> tasks) {
-        maxHeap = new PriorityQueue<>(
-            (a,b) -> {
-                if(a.priority != b.priority) {
-                    return b.priority - a.priority;
+        this.pq = new PriorityQueue<>((a, b) -> (a[2] != b[2] ? b[2] - a[2] : b[1] - a[1])); //maxHeap
+        this.map = new HashMap<>(); //hashMap
+        
+        for(List<Integer> curr : tasks) { //storing the tasks information
+            int[] info = new int[]{curr.get(0), curr.get(1), curr.get(2)};
+            this.map.put(curr.get(1), info);
+            this.pq.add(info);
+        }
+    }
+    
+    public void add(int userId, int taskId, int priority) { //adding a new task information
+        int[] curr = new int[]{userId, taskId, priority};
+        pq.add(curr);
+        map.put(taskId, curr);
+        return;
+    }
+    
+    public void edit(int taskId, int newPriority) { //updating a task information
+        int[] curr = map.get(taskId);
+        int[] updatedInfo = new int[]{curr[0], taskId, newPriority};
+        map.put(taskId, updatedInfo); //lazy updation => task is only updated in the hashMap not in the maxHeap
+        pq.add(updatedInfo);
+        return;
+    }
+    
+    public void rmv(int taskId) { //removing a task information
+        map.remove(taskId); //lazy deletion => task is only deleted from the hashMap not from the maxHeap
+        return;
+    }
+    
+    public int execTop() { //executing the task with highest priority
+        int res = -1;
+        while(!pq.isEmpty()) { //lazy deletion
+            int[] curr = pq.remove();
+            int userId = curr[0], taskId = curr[1], priority = curr[2];
+            if(map.containsKey(taskId)) {
+                int info[] = map.get(taskId);
+                int originalUserId = info[0], originalPriority = info[2];
+                if(userId == originalUserId && priority == originalPriority) {
+                    res = userId;
+                    map.remove(taskId);
+                    break; 
                 }
-                return b.taskID - a.taskID;
-            }
-        );
-        taskPriorityMap = new HashMap<>();
-        taskOwnerMap = new HashMap<>();
-        for(List<Integer> t : tasks) {
-            add(t.get(0), t.get(1), t.get(2));
-        }
-    }
-    
-    public void add(int userId, int taskId, int priority) {
-        maxHeap.offer(new Task(priority, taskId));
-        taskPriorityMap.put(taskId, priority);
-        taskOwnerMap.put(taskId, userId);
-    }
-    
-    public void edit(int taskId, int newPriority) {
-        maxHeap.offer(new Task(newPriority, taskId));
-        taskPriorityMap.put(taskId, newPriority);
-    }
-    
-    public void rmv(int taskId) {
-        taskPriorityMap.put(taskId, -1);
-    }
-    
-    public int execTop() {
-        while(!maxHeap.isEmpty()) {
-            Task top = maxHeap.poll();
-            int currPriority = taskPriorityMap.getOrDefault(top.taskID, -1);
-
-            if(top.priority == currPriority) {
-                taskPriorityMap.put(top.taskID, -1);
-                return taskOwnerMap.get(top.taskID);
             }
         }
-        return -1;
+        return res;
     }
 }
 
-
+/**
+ * Your TaskManager object will be instantiated and called as such:
+ * TaskManager obj = new TaskManager(tasks);
+ * obj.add(userId,taskId,priority);
+ * obj.edit(taskId,newPriority);
+ * obj.rmv(taskId);
+ * int param_4 = obj.execTop();
+ */
 /**
  * Your TaskManager object will be instantiated and called as such:
  * TaskManager obj = new TaskManager(tasks);
