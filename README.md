@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/shikharcookies/leetcode_ques/tree/master/2591-frog-jump-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shikharcookies/leetcode_ques/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2808-painting-the-walls](https://github.com/shikharcookies/leetcode_ques/tree/master/2808-painting-the-walls) |
+| [3224-count-the-number-of-infection-sequences](https://github.com/shikharcookies/leetcode_ques/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shikharcookies/leetcode_ques/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shikharcookies/leetcode_ques/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/shikharcookies/leetcode_ques/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shikharcookies/leetcode_ques/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3224-count-the-number-of-infection-sequences](https://github.com/shikharcookies/leetcode_ques/tree/master/3224-count-the-number-of-infection-sequences) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shikharcookies/leetcode_ques/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/shikharcookies/leetcode_ques/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Memoization
@@ -550,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/shikharcookies/leetcode_ques/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/shikharcookies/leetcode_ques/tree/master/3678-design-task-manager) |
+## Combinatorics
+|  |
+| ------- |
+| [3224-count-the-number-of-infection-sequences](https://github.com/shikharcookies/leetcode_ques/tree/master/3224-count-the-number-of-infection-sequences) |
 <!---LeetCode Topics End-->
